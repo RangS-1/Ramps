@@ -1,4 +1,4 @@
-# RampS
+# RampS V.0.3
 RampS or RangS Media Player is an appplication to play music (mp3). This app can only play mp3 file, i'm too lazy to make it play other music file like wav and ogg. i made this in 3 day, so don't expect too much that this media player is not as good like original media player. i made this just for fun and yeah, the code is like a sh*t.
 
 - compatible with python3
